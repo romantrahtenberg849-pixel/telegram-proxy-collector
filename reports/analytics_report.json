@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T00:08:26.914728",
+  "timestamp": "2026-08-05T10:37:55.979845",
   "history_size": 200,
   "source_stats": {
     "eu": {
@@ -9,15 +9,15 @@
       "probe_resistant_percent": 0.0
     },
     "ru": {
-      "total": 68,
+      "total": 58,
       "good_percent": 100.0,
       "avg_ping": 0.14,
       "probe_resistant_percent": 0.0
     },
     "us": {
-      "total": 8,
+      "total": 18,
       "good_percent": 100.0,
-      "avg_ping": 0.14,
+      "avg_ping": 0.15,
       "probe_resistant_percent": 0.0
     }
   },
