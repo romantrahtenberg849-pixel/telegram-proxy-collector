@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-22T19:32:34.793761",
+  "timestamp": "2026-08-22T21:22:53.615803",
   "history_size": 200,
   "source_stats": {
     "eu": {
-      "total": 158,
+      "total": 152,
       "good_percent": 100.0,
-      "avg_ping": 0.07,
+      "avg_ping": 0.08,
       "probe_resistant_percent": 0.0
     },
     "asia": {
@@ -14,16 +14,16 @@
       "avg_ping": 0.05,
       "probe_resistant_percent": 0.0
     },
-    "ru": {
-      "total": 30,
+    "us": {
+      "total": 10,
       "good_percent": 100.0,
-      "avg_ping": 0.11,
+      "avg_ping": 0.15,
       "probe_resistant_percent": 0.0
     },
-    "us": {
-      "total": 8,
+    "ru": {
+      "total": 34,
       "good_percent": 100.0,
-      "avg_ping": 0.11,
+      "avg_ping": 0.15,
       "probe_resistant_percent": 0.0
     }
   },
@@ -33,7 +33,7 @@
     "recommended_timeout_mt": 20,
     "recommended_max_ping": 5.0,
     "recommended_workers": 200,
-    "current_avg_ping": 0.08,
+    "current_avg_ping": 0.1,
     "total_proxies": 200
   },
   "quality_distribution": {
