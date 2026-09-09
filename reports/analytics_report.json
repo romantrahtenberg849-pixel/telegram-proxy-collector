@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-09-09T14:38:36.771197",
+  "timestamp": "2026-09-09T19:33:21.160450",
   "history_size": 200,
   "source_stats": {
     "eu": {
-      "total": 150,
+      "total": 160,
       "good_percent": 100.0,
-      "avg_ping": 0.07,
+      "avg_ping": 0.06,
       "probe_resistant_percent": 0.0
     },
     "us": {
-      "total": 14,
+      "total": 12,
       "good_percent": 100.0,
       "avg_ping": 0.07,
       "probe_resistant_percent": 0.0
     },
     "ru": {
-      "total": 36,
+      "total": 28,
       "good_percent": 100.0,
       "avg_ping": 0.09,
       "probe_resistant_percent": 0.0
